@@ -19,16 +19,16 @@ namespace LineComparisonProblem
             {
 
                 case 1:
-                    UC_1_LengthOfLine qemrem = new UC_1_LengthOfLine();
-                    qemrem.FindLengthOfLine();
+                    UC_1_LengthOfLine lengthofline = new UC_1_LengthOfLine();
+                    lengthofline.FindLengthOfLine();
                     break;
                 case 2:
-                    UC_2_CheckEquality swapnum = new UC_2_CheckEquality();
-                    swapnum.CheckEquality();
+                    UC_2_CheckEquality checkequality = new UC_2_CheckEquality();
+                    checkequality.CheckEquality();
                     break;
                 case 3:
-                    UC_3_CompareTowLines evenodd = new UC_3_CompareTowLines();
-                    evenodd.CompareTowLines();
+                    UC_3_CompareTowLines linecompare = new UC_3_CompareTowLines();
+                    linecompare.CompareTowLines();
                     break;
             }
 
