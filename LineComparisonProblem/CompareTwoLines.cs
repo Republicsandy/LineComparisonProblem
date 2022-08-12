@@ -31,7 +31,7 @@ namespace LineComparisonProblem
             else if (lenthOfFirstLine > lenthOfSecondLine)
                 Console.WriteLine("Line1 is greater in length than Line2");
             else
-                Console.WriteLine("Line1 is smaller in length than Line2");
+                Console.WriteLine("Line1 is smaller in length than Line2")
         }
 }
 }
