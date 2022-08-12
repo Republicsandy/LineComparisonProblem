@@ -32,7 +32,7 @@ namespace LineComparisonProblem
                 if (lenthOfFirstLine == lenthOfSecondLine)
                     Console.WriteLine("Lines are equal in length.");
                 else
-                    Console.WriteLine("Lines are not equal in length.")
+                    Console.WriteLine("Lines are not equal in length.");
             }
         }
     }
